@@ -1,0 +1,10 @@
+{
+	"name": "Mobile_Factory_Graphics",
+	"version": "0.0.12",
+	"title": "Mobile Factory Graphics",
+	"author": "Mugiwaxar",
+	"dependencies": ["base >= 1.0"],
+	"description": "The Graphical part of the Mobile Factory Mod",
+	"factorio_version": "1.0",
+	"homepage":"ttps://mobile-factory.fandom.com/wiki/Mobile_Factory_Wiki"
+}

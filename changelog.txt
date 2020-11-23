@@ -1,0 +1,102 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.12
+Date: 16/08/2020
+  Features:
+    - Updated to Factorio 1.0
+---------------------------------------------------------------------------------------------------
+Version: 0.0.11
+Date: 13/08/2020
+  Features:
+    - Removed all Jets Graphics
+---------------------------------------------------------------------------------------------------
+Version: 0.0.10
+Date: 25/07/2020
+  Features:
+    - Removed all Erya Graphics
+---------------------------------------------------------------------------------------------------
+Version: 0.0.9
+Date: 26/05/2020
+  Features:
+    - Added all new Chemical Icons
+---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+Date: 21/05/2020
+  Features:
+    - Added a square to the visual of many Icons
+    - Added ArrowIconLeft Icon
+    - Added ArrowIconRight Icon
+    - Added PlusIcon Icon
+    - Added FluidQuatron Icon
+    - Added IddleBeam
+    - Added MK1 Energy Laser Beam
+    - Added MK1 Quatron Laser Beam
+    - Added Internal Energy Cube
+    - Added Quatron Cube MK1
+    - Added Internal Quatron Cube
+    - Added Energy Laser MK1
+    - Added Quatron Laser MK1
+    - Added Quatron Reactor
+    - Added Data Assembler
+    - Added the Data Assembler
+  Changes:
+    - Changed Energy Cube MK1 Visual
+    - Changed the visual and the name of the Data Center to Network Controler
+    - Changed the name of the Wireless Data Transmitter to Network Access Point
+    - Removed Data Center MF
+    - Removed Equalizer
+    - Removed Power Drain Pole
+    - Removed WirelessDataTransmission Icon
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 24/04/2020
+  Changes:
+    - some new element recipe icons
+    - resized automation and logistic science pack 89x89 icons to 64x64
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 18/03/2020
+  Features:
+    - Added Erya Loader
+    - Added Erya Extrem Loader
+    - Added Erya Item Mover
+    - Added Erya Extrem Underground Belt
+    - Added Erya Tank
+    - Added Deep Tank
+    - Added Matter Interactor
+    - Added Fluid Interactor
+  Changes:
+    - Removed Factory Tank
+    - Removed Matter Serializer
+    - Removed Matter Printer
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+Date: 03/03/2020
+  Features:
+    - Added all Erya Tech Icons/Entity
+    - Added the Frozen Mist Animation
+    - Added Snow Tile
+  Changes:
+    - Changed Dimensional Tile Icon
+    - Changed Dimensional Tile Entity
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+Date: 20/02/2020
+  Features:
+    - Added the Mobile Factory Lock Icon
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 26/01/2020
+  Features:
+    - Updated to Factorio version 0.18
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 20/01/2020
+  Changes:
+    - Changed the Information GUI Icon
+    - Changed the Tooltip GUI Icon
+    - Reworked the Dimensional Ore Icon transparency	
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 18/01/2020
+  Features:
+    - Initial Release
