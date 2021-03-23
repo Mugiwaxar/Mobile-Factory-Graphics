@@ -1,6 +1,29 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 23/03/2021
+  Changes:
+    - Added the Constructible Area Tile Icon
+    - Added the Dimentional Tile HD Icon
+    - Added the Lab Tile HD Icon
+    - Added the Void Tile HD Icon
+    - Added MF Laser Efficiency Module HD Icon
+    - Added MF Laser Focus Module HD Icon
+    - Added MF Laser Power Module HD Icon
+    - Added MF Laser Power Module Technology HD Icon
+    - Added the Mobile Factory HD Icon
+    - Added the Quick Mobile Factory HD Icon
+    - Added the Hovering Mobile Factory HD Icon
+    - Added the Quatron Cell HD Icon
+    - Added the Oxycoal HD Icon
+    - Added the Hydrocoal HD Icon
+    - Added the Control Center Technology HD Icon
+    - Added Mobile Factory Energy Laser Enable/Disable HD Icon
+    - Added Mobile Factory Fluid Laser Enable/Disable HD Icon
+    - Added Mobile Factory Logistic Laser Enable/Disable HD Icon
+    - Added Mobile Factory Quatron Laser Enable/Disable HD Icon
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
-Date: 05/01/2020
+Date: 05/01/2021
   Features:
     - Added the Energy Laser MK2
     - Added the Energy Laser MK3
