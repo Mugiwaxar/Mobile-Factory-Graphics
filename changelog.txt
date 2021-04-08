@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 08/04/2021
+  Changes:
+    - Changed the Ore Cleaner Entity
+    - Changed the Ore Cleaner Shadow
+    - Changed the Ore Cleaner Icon
+    - Changed the Ore Cleaner Animation
+---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 23/03/2021
   Changes:
